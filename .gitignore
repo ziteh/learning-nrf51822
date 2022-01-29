@@ -1,3 +1,11 @@
+# Segger Embedded Studio
+[Oo]utput/
+[Dd]ebug/
+[Rr]elease/
+*.elf
+*.hex
+*.map
+
 # Prerequisites
 *.d
 
