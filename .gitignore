@@ -64,6 +64,7 @@
 *.sct
 *.sfd
 *.sfr
+JLinkLog.txt
 
 # Miscellaneous
 *.tra
